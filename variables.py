@@ -27,3 +27,7 @@ print(lspace.lstrip())
 extra_lines = "James\nAlbert\nJulia\nSubyn"
 print(extra_lines)
 
+
+repo_name = "py-tests"
+print("always do git push " + repo_name)
+
